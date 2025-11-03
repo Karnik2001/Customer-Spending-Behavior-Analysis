@@ -1,4 +1,5 @@
 #🛍️ Customer Spending Behavior Analysis
+
 ##📘 Overview
 
 This project focuses on analyzing and classifying customer spending behavior using machine learning techniques. The goal is to identify spending patterns and predict customer categories, enabling data-driven decision-making for business strategies, marketing campaigns, and customer segmentation.
