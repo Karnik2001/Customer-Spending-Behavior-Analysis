@@ -67,6 +67,14 @@ Add customer segmentation using unsupervised clustering.
 
 Deploy the model via a web dashboard or API for real-time analysis.
 
-📚 References
+## Citations
 
-GeeksforGeeks: XGBoost Classifier
+https://www.geeksforgeeks.org/machine-learning/xgbclassifier/
+
+https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python
+
+https://www.geeksforgeeks.org/machine-learning/building-and-implementing-decision-tree-classifiers-with-scikit-learn-a-comprehensive-guide/
+
+https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbor-algorithm-in-python/
+
+https://www.datacamp.com/tutorial/random-forests-classifier-python
